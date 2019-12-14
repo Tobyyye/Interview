@@ -1,0 +1,8 @@
+react的render , state ,proproties , redux form, 
+
+util loadash  , ===
+
+
+
+react的核心实用用法
+
